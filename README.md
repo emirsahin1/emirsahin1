@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/emirsahin1/emirsahin1/master/colors.svg" width="100%" height="150">
+
+## Hello👋️, I'm Emir and welcome to my github page! 
+### Feel free to check out my projects below.
+
+
 
 <!--
 **emirsahin1/emirsahin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
