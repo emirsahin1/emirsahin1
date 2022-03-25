@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/emirsahin1/emirsahin1/master/colors.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/emirsahin1/emirsahin1/master/colors.svg" width="100%" height="120" >
 
 ## Hello👋️, I'm Emir and welcome to my github page! 
 ### Feel free to check out my projects below.
