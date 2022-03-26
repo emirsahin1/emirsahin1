@@ -64,7 +64,7 @@
             }
 
             60.333333% {
-                transform: translate(120.369581px, -10.0px);
+                transform: translate(90.369581px, -10.0px);
                 animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
             }
 
@@ -108,22 +108,22 @@
 
         <g id="e25MoqcXf7y2_to" transform="translate(0.0, 0.0)">
         <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(5.4806 0)"
-            fill="rgba(255,71,117,0.753)" />
+            fill="#ff4775" />
         </g>
 
         <g id="e25MoqcXf7y5_to" transform="translate(83.115325,46.728042)">
             <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="rotate(35.085453) translate(0,0)"
-                fill="rgba(186,33,206,0.712)" />
+                fill="rgba(245,50,212,0.829)" />
         </g>
 
         <g id="e25MoqcXf7y6_to" transform="translate(-40.31707,4.999976)">
             <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(0,0)"
-                fill="rgba(81,91,199,0.507)" />
+                fill="rgba(71,85,238,0.658)" />
         </g>
 
         <g id="e25MoqcXf7y7_to" transform="translate(0.283357,-10.0)">
             <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(0,0)"
-                fill="rgba(12,165,165,0.308)" />
+                fill="rgba(0,179,179,0.384)" />
         </g>
 
     </g>
