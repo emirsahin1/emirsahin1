@@ -108,12 +108,12 @@
 
         <g id="e25MoqcXf7y2_to" transform="translate(0.0, 0.0)">
         <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(5.4806 0)"
-            fill="#ff4775" />
+            fill="#ff2323" />
         </g>
 
         <g id="e25MoqcXf7y5_to" transform="translate(83.115325,46.728042)">
             <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="rotate(35.085453) translate(0,0)"
-                fill="rgba(245,50,212,0.829)" />
+                fill="rgba(50,206,245,0.829)" />
         </g>
 
         <g id="e25MoqcXf7y6_to" transform="translate(-40.31707,4.999976)">
@@ -123,7 +123,7 @@
 
         <g id="e25MoqcXf7y7_to" transform="translate(0.283357,-10.0)">
             <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(0,0)"
-                fill="rgba(0,179,179,0.384)" />
+                fill="rgba(194,0,219,0.466)" />
         </g>
 
     </g>
