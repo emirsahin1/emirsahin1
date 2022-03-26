@@ -1,1 +1,130 @@
-<svg id="e25MoqcXf7y1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><style><![CDATA[#e25MoqcXf7y5_to {animation: e25MoqcXf7y5_to__to 3000ms linear infinite normal forwards}@keyframes e25MoqcXf7y5_to__to { 0% {transform: translate(83.115325px,46.728042px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 53.333333% {transform: translate(-18.807585px,-29.839623px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 100% {transform: translate(83.115325px,46.728042px)}} #e25MoqcXf7y6_to {animation: e25MoqcXf7y6_to__to 3000ms linear infinite normal forwards}@keyframes e25MoqcXf7y6_to__to { 0% {transform: translate(-40.31707px,4.999976px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 53.333333% {transform: translate(53.369581px,2.999968px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 100% {transform: translate(-40.31707px,4.999976px)}} #e25MoqcXf7y7_to {animation: e25MoqcXf7y7_to__to 3000ms linear infinite normal forwards}@keyframes e25MoqcXf7y7_to__to { 0% {transform: translate(33.283357px,2.99997px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 53.333333% {transform: translate(53.369581px,2.999968px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 100% {transform: translate(33.283357px,2.99997px)}}]]></style><defs><path id="e25MoqcXf7y2" d="M-160,44c30,0,58-18,88-18s58,18,88,18s58-18,88-18s58,18,88,18v44h-352Z"/></defs><g transform="matrix(-1.120234 0 0-.754881 105.743409 57.626897)"><use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(5.4806 0)" fill="rgba(73,152,221,0.4)"/><g id="e25MoqcXf7y5_to" transform="translate(83.115325,46.728042)"><use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="rotate(35.085453) translate(0,0)" fill="rgba(20,172,119,0.51)"/></g><g id="e25MoqcXf7y6_to" transform="translate(-40.31707,4.999976)"><use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(0,0)" fill="rgba(85,92,168,0.68)"/></g><g id="e25MoqcXf7y7_to" transform="translate(33.283357,2.99997)"><use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(0,0)" fill="rgba(120,12,165,0.2)"/></g></g></svg>
+<svg id="e25MoqcXf7y1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 24 150 28" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style>
+        <![CDATA[
+        #e25MoqcXf7y5_to {
+            animation: e25MoqcXf7y5_to__to 8000ms linear infinite normal forwards
+        }
+
+        @keyframes e25MoqcXf7y5_to__to {
+            0% {
+                transform: translate(83.115325px, 46.728042px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            30.333333% {
+                transform: translate(-18.807585px, -29.839623px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            60.333333% {
+                transform: translate(-58.807585px, -69.839623px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            100% {
+                transform: translate(83.115325px, 46.728042px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+        }
+
+        #e25MoqcXf7y6_to {
+            animation: e25MoqcXf7y6_to__to 12000ms linear infinite normal forwards
+        }
+
+        @keyframes e25MoqcXf7y6_to__to {
+            0% {
+                transform: translate(-40.31707px, 4.999976px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            53.333333% {
+                transform: translate(53.369581px, 2.999968px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            100% {
+                transform: translate(-40.31707px, 4.999976px)
+            }
+        }
+
+        #e25MoqcXf7y7_to {
+            animation: e25MoqcXf7y7_to__to 8000ms linear infinite normal forwards
+        }
+
+        @keyframes e25MoqcXf7y7_to__to {
+            0% {
+                transform: translate(0.283357px, -10.0px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            30.333333% {
+                transform: translate(-60.369581px, -10.0px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            60.333333% {
+                transform: translate(120.369581px, -10.0px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            100% {
+                transform: translate(0.283357px, -10.0px)
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+        }
+
+        #e25MoqcXf7y2_to {
+            animation: e25MoqcXf7y2_to__to 12000ms linear infinite normal forwards
+        }
+
+        @keyframes e25MoqcXf7y2_to__to {
+            0% {
+                transform: translate(0.0px, 0.0px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            30.333333% {
+                transform: translate(-60.369581px, -10.0px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            60.333333% {
+                transform: translate(80.369581px, -10.0px);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            100% {
+                transform: translate(0.0px, 0.0px)
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+        }
+        ]]>
+    </style>
+    <defs>
+        <path id="e25MoqcXf7y2" d="M-160,44c30,0,58-18,88-18s58,18,88,18s58-18,88-18s58,18,88,18v44h-352Z" />
+    </defs>
+    <g transform="matrix(-1.120234 0 0-.754881 105.743409 57.626897)">
+
+        <g id="e25MoqcXf7y2_to" transform="translate(0.0, 0.0)">
+        <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(5.4806 0)"
+            fill="rgba(255,71,117,0.753)" />
+        </g>
+
+        <g id="e25MoqcXf7y5_to" transform="translate(83.115325,46.728042)">
+            <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="rotate(35.085453) translate(0,0)"
+                fill="rgba(186,33,206,0.712)" />
+        </g>
+
+        <g id="e25MoqcXf7y6_to" transform="translate(-40.31707,4.999976)">
+            <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(0,0)"
+                fill="rgba(81,91,199,0.507)" />
+        </g>
+
+        <g id="e25MoqcXf7y7_to" transform="translate(0.283357,-10.0)">
+            <use width="352" height="62" xlink:href="#e25MoqcXf7y2" transform="translate(0,0)"
+                fill="rgba(12,165,165,0.308)" />
+        </g>
+
+    </g>
+</svg>
