@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/emirsahin1/emirsahin1/master/colors.svg" width="100%" height="120" >
 
-## Hi, I'm Emir and welcome to my GitHub page! 
+## Hi, I'm Emir!
 ### Feel free to check out my projects below.
 
 
