@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/emirsahin1/emirsahin1/master/colors.svg" width="100%" height="120" >
 
-## &nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Emir!
+## &nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Emir! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/emirsahin1/emirsahin1/issues/1">Sign my guestbook!</a> <a href="https://github.com/emirsahin1/emirsahin1/issues/1">><img src="book.gif" width="70" height="70" ></a> 
+
+
+
+
 ###   &nbsp;&nbsp;&nbsp;&nbsp;Feel free to check out my projects below:
 
 
